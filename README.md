@@ -19,7 +19,7 @@ $ php composer.phar require "dareks84/yii2-swiper" "*"
 or add
  
 ```JSON
-"romka-chev/yii2-swiper" : "*"
+"dareks84/yii2-swiper" : "*"
 ```
  
 to the *require* section of your application's ```composer.json``` file.
@@ -32,7 +32,7 @@ to the *require* section of your application's ```composer.json``` file.
 /**
  * @var \yii\web\View $this
  */
-use romkaChev\yii2\swiper\Swiper;
+use dareks84\yii2\swiper\Swiper;
 
 echo Swiper::widget( [
   'items'         => [
@@ -64,6 +64,6 @@ echo Swiper::widget( [
 
 ## Issues
 
-If some problems occurred, you can create [issue](https://github.com/romka-chev/yii2-swiper/issues).
+If some problems occurred, you can create [issue](https://github.com/dareks84/yii2-swiper/issues).
 
 Thank you for attention.
