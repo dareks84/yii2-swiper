@@ -13,7 +13,7 @@ You can get this extension through [Composer](https://getcomposer.org/download/)
 Either run in terminal
  
 ```Shell
-$ php composer.phar require "romka-chev/yii2-swiper" "*"
+$ php composer.phar require "dareks84/yii2-swiper" "*"
 ```
  
 or add
