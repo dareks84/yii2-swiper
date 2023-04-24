@@ -61,3 +61,4 @@ phpunit.phar
 composer.lock
 frontend
 coverage
+/nbproject/private/

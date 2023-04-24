@@ -1,5 +1,5 @@
 <?php
-namespace romkaChev\yii2\swiper\assets;
+namespace dareks84\yii2\swiper\assets;
 
 
 use yii\web\AssetBundle;
@@ -7,7 +7,7 @@ use yii\web\AssetBundle;
 /**
  * Class SwiperMinAsset
  *
- * @package romkaChev\yii2\swiper\assets
+ * @package dareks84\yii2\swiper\assets
  */
 class SwiperMinAsset extends AssetBundle
 {

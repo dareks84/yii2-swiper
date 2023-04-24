@@ -1,12 +1,12 @@
 <?php
-namespace romkaChev\yii2\swiper\assets;
+namespace dareks84\yii2\swiper\assets;
 
 use yii\web\AssetBundle;
 
 /**
  * Class SwiperJqueryAsset
  *
- * @package romkaChev\yii2\swiper\assets
+ * @package dareks84\yii2\swiper\assets
  */
 class SwiperJqueryAsset extends AssetBundle
 {
